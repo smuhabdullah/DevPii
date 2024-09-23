@@ -575,8 +575,10 @@ header
   .header-area .main-nav:before {
     display: none;
   }
-	.header-area .main-nav .logo {
+	
+  .header-area .main-nav .logo {
   margin-top: 1.5%;
+  }
 }
 
 
