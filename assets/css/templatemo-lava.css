@@ -56,7 +56,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
   text-align: center;
   font-size: 30px;
   z-index: 1000;
-  box-shadow: 2px 2px 3px #999;
+/*   box-shadow: 2px 2px 3px #999; */
 }
 
 .whatsapp-float i {
@@ -299,7 +299,7 @@ header
 }
 
 .header-area .main-nav .logo {
-  margin-top: 1.5%;
+  margin-top: 0.5%;
   width: 12% !important;
   /* line-height: 80px; */
   color: #191a20;
