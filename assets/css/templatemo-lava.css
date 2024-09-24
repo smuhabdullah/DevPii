@@ -781,6 +781,9 @@ welcome
     margin-top: 5%;
     transform: none !important;
   }
+.section .center-heading{
+	margin-top: 5%;
+	}
 }
 @media (max-width: 810px) {
   .welcome-area {
