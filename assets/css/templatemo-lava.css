@@ -781,8 +781,8 @@ welcome
     margin-top: 5%;
     transform: none !important;
   }
-.section .center-heading{
-	margin-top: 35%;
+.section .center-heading h2{
+	margin-top: 15%;
 	}
 }
 @media (max-width: 810px) {
