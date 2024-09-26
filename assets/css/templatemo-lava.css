@@ -725,18 +725,18 @@ welcome
 }
 
 .welcome-area .header-text h1 {
-  font-weight: 500;
+  font-weight: 1000;
   font-size: 42px;
   line-height: 80px;
   letter-spacing: 1px;
   margin-bottom: 30px;
   color: #303841;
-  font-family: 'Rubik'
+/*   font-family: 'Rubik' */
 }
 
 .welcome-area .header-text h1 b {
   font-style: normal;
-  font-family: 'Rubik';
+/*   font-family: 'Rubik'; */
   color: 	#875A7B;
   font-weight: 400;
   opacity: 0.9;
